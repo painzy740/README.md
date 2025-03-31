@@ -1,9 +1,12 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=devorsixcore&color=brightgreen&style=plastic&label=Profile+Views" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=painzyzcdrx&color=brightgreen&style=plastic&label=Profile+Views" alt="Profile Views">
 </div>
 <br> 
 
-<h1 align="center">Hello there, I'm Painzy!</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+everyone!;Welcome+to+my+profile!;what+do+you+know+who+I+am?!;My+name+is+painzy😍&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
 
 <p align="center">
   <img src="https://files.catbox.moe/j63vm5.jpg" width="200" alt="About Me">
